@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ten3one/ten3one.github.io.git/static/css/main.62f47e86.css",
+    "main.js": "/ten3one/ten3one.github.io.git/static/js/main.8bdad2eb.js",
+    "static/media/auth-background.png": "/ten3one/ten3one.github.io.git/static/media/auth-background.f4dde02a2b607b99f71a.png",
+    "index.html": "/ten3one/ten3one.github.io.git/index.html",
+    "main.62f47e86.css.map": "/ten3one/ten3one.github.io.git/static/css/main.62f47e86.css.map",
+    "main.8bdad2eb.js.map": "/ten3one/ten3one.github.io.git/static/js/main.8bdad2eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62f47e86.css",
+    "static/js/main.8bdad2eb.js"
+  ]
+}
